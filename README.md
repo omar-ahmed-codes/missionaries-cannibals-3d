@@ -1,5 +1,7 @@
 # ⛵ Missionaries & Cannibals — 3D
 
+### [🌐 Play Live → missionaries-cannibals-3d.vercel.app](https://missionaries-cannibals-3d.vercel.app)
+
 A visually stunning **3D puzzle game** built with **Three.js** — the classic AI river-crossing problem, reimagined with animated water, stylized characters, and smooth boat-crossing animations.
 
 > **AI Semester IV Project**
